@@ -3,8 +3,9 @@
 
 # 結果画像
 
-![第4回の結果](result.png)
-- 工夫した点：xxx
+(https://github.com/user-attachments/assets/72eafee8-67f0-45d6-a00f-f691c7f71e7f)
+- 工夫した点：↑今回も動画で提出させていただきます。
+ダメージを受けた時の無敵時間中に出るような点滅をC#を絡めながら再現してみました。
 
 # 進め方
 
